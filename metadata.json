@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Safety Hazard Mapper v2.01",
+  "description": "An interactive AI assistant that identifies workplace hazards, draws them on an uploaded photo, and suggests targeted fixes using the Hazard–Risk–Decide model.",
+  "requestFramePermissions": []
+}
